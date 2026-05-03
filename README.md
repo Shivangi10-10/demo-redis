@@ -168,6 +168,11 @@ PONG
 
 ---
 
+## Flowchart
+
+<img width="918" height="814" alt="image" src="https://github.com/user-attachments/assets/8fbc5a3e-c44c-4fdf-9023-41228784a7d7" />
+
+
 ## Resources
 
 - [Official Docs](https://redis.io/docs/)
